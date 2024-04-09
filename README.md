@@ -1,4 +1,4 @@
-Implementing some methods for clustering and dimensionality reduction in Python and applying them on the Iris dataset.
+Implementing some methods from scratch for clustering and dimensionality reduction in Python and applying them to the Iris dataset.
 
 ## Clustering
 - **K-Means Clustering**
